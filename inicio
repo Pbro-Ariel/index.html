@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Curriculum Ariel Ramón Paredes García</title>
+  <link rel="stylesheet" type="text/css" href="css/estilos.css" />
+
+</head>
+
+<body>
+
+  <script src="js/function.js"></script>
+
+  <h1>HOJA DE VIDA: Ariel Ramón Paredes García.</h1>
+  <hr>
+
+  <img src="https://https://randomuser.me/api/portraits/lego/2.jpg">
+  <alt>Fotografía Ariel Paredes</alt>
+  </img>
+
+  <h2> Datos Personales </h2>
+
+  <p> Nombre: Ariel Ramón </p>
+  <p> Apellido: Paredes García </p>
+  <p> Nro documento: 24765098 </p>
+  <p> Fecha de nac. : 30/0/1974 </p>
+  <p> Lugar de nac: San Salvador de Jujuy </p>
+  <p> Nacionalidad: Argentina </p>
+  <p> Domicilio:Viltipico 529 dep. 1 Barrio San Pedrito. San Salvador de Jujuy
+  <p>
+    
+<hr>
+
+  <button onclick="location.href='mailto:hildapg@example.com'">Para comunicarse</button>
+ 
+  <script src="js/function.js"></script>
+  <h2> Objetivo: </h2>
+  <li> Generar espacios de comunicación capaces de posibilitar diálogos constructivos aportando al grupo de trabajo soluciones y sugerencias desde las propias habilidades y el potenciamiento de las del resto del grupo. </li>
+
+  <h2> Experiencia laboral: </h2>
+
+  <li> IES 7 - Docente - Fenomenología Religiosa - 1999-2020 </li>
+  <li> IES 7 - Docente - Doctrina Social de la Iglesia- 1999-2012 </li>
+  <li> IES 7 - Docente - Historia de las Religiones Comparadas - 2012-2023</li>
+
+  <h2> Formacion Academica: </h2>
+
+  <li>Escuela n° 10 “José Francisco de San Martín”, 1979-1986</li>
+  <li>Colegio Nacional N°3 “Exodo Jujeño”, 1987-1990 </li>
+  <li>Seminario Mayor de Jujuy, 1991-1998: Presbítero Diocesano</li>
+  <li>Universidad Católica de Santiago del Estero DASS: Licenciatura en Ciencas Religiosas, 1999-2002</li>
+
+  <h2> Cualificaciones: </h2>
+
+  <li> Inglés: Nivel Medio </li>
+  <li> Latín: Nivel Avanzado </li>
+  <li> Griego Koiné: Nivel Medio </li>
+  <li> Conocimientos de informática y Sistemas de seguridad </li>
+  <li> Impresión 3D y software </li>
+
+  <h2> Diploma: </h2>
+
+  <li>Antropología Teológica</li>
+
+  </body>
+
+</html>
